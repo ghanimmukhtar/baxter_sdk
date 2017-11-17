@@ -1,0 +1,14 @@
+033756294b59f038869d97e59b5d9b28fe64d9e5		branch 'master' of https://github.com/RethinkRobotics/baxter_examples
+d489cc86875e2231a708c858f6d5dfb58482dc0e	not-for-merge	branch 'development' of https://github.com/RethinkRobotics/baxter_examples
+e57567b54ef2cd405a3adbbf074e095fa2d607fa	not-for-merge	branch 'release-0.7.0' of https://github.com/RethinkRobotics/baxter_examples
+2054ed831a2cee44b453eda557b9e2bd0b86a28b	not-for-merge	branch 'release-1.0.0' of https://github.com/RethinkRobotics/baxter_examples
+8a6cfbec7346d58ff6fe61b0e1e51ecb2b5f2e94	not-for-merge	branch 'release-1.1.0' of https://github.com/RethinkRobotics/baxter_examples
+6742909953e3e322b41c2d49e7ac29e7008ea41c	not-for-merge	branch 'release-1.1.1' of https://github.com/RethinkRobotics/baxter_examples
+5cf80e98f7cabd668a78045b1665ddeec09e4948	not-for-merge	branch 'release-1.2.0' of https://github.com/RethinkRobotics/baxter_examples
+d489cc86875e2231a708c858f6d5dfb58482dc0e	not-for-merge	branch 'xacro_kinetic' of https://github.com/RethinkRobotics/baxter_examples
+89b96c73c4fcacd2666607086f1a28738d5bc2ef	not-for-merge	tag 'catkin-reorganization-0.7' of https://github.com/RethinkRobotics/baxter_examples
+1343fc04acfdfd97767b4ad8f29d6b5f32bb734a	not-for-merge	tag 'v0.7.0' of https://github.com/RethinkRobotics/baxter_examples
+ca8c7a05b1bd9e3a412fda2957375ad95d1c0c1e	not-for-merge	tag 'v1.0.0' of https://github.com/RethinkRobotics/baxter_examples
+574b349939787b310a9362e5dc61265789ac08b9	not-for-merge	tag 'v1.1.0' of https://github.com/RethinkRobotics/baxter_examples
+290eea47395316e3ecaeef728ac6dbb6005e5114	not-for-merge	tag 'v1.1.1' of https://github.com/RethinkRobotics/baxter_examples
+065dc9c93416ed1c56bd08eba9be03cd1a94a44e	not-for-merge	tag 'v1.2.0' of https://github.com/RethinkRobotics/baxter_examples

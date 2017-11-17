@@ -1,0 +1,35 @@
+# pack-refs with: peeled fully-peeled 
+ae77550e8d10c4bb0091fa4e1b5b59ed930f22b3 refs/remotes/origin/development
+641c1bd67f1e097614d6fa65eec9bac3b0ce44b6 refs/remotes/origin/forward_group_sim_controllers
+cb4b81a3ebe0f7013964cae74b431a2fe0361283 refs/remotes/origin/kinetic-devel
+46d01dc9bf22965799ab03db464858fea570fada refs/remotes/origin/master
+e1b0f11f583bcd4dad34cac8625725bb2627db29 refs/remotes/origin/release-0.7.0
+e6a65908f436100833a85ee4fa7ed43ff0946354 refs/remotes/origin/release-0.8.0
+cfa4ca90251aef4ebbae0a541c062badbe6dd124 refs/remotes/origin/release-0.8.1
+183c684815f458598b39a7fee61eef410d6d2f16 refs/remotes/origin/release-0.9.0
+6632954c323f04f83263a718fe1593a7a54ad742 refs/remotes/origin/release-0.9.1
+cf646dcc19bde933dd7cbf004f08b9efad256e92 refs/remotes/origin/release-1.2.0
+83496eb0cf36668aa8569cb09b29e760a20a7cdc refs/remotes/origin/release-1.2.1
+89627d0a510e59eaf8ec7961c87c77e0fee3959e refs/remotes/origin/release-1.2.12
+2291327eeeaa704473ae4efac624d396ff3662f0 refs/tags/v0.0.1
+^b5c00ed9567bc77953ffbe55a2601e93fc5bf29d
+b8eadf6607373ba69155303962dc1e308823ac14 refs/tags/v0.2.0
+^22654e515245ab7c72f2fea7c16061d67651c6c9
+43bdf6db7a44c987976388ad9c610ea168fffefd refs/tags/v0.8.0
+^9c0776d909ad02e0e1ef37a99bfafc744bb8bae4
+43ee9fe1a4aff4272880649c43348bef3bf8f8ba refs/tags/v0.8.1
+^69fb88c694fe7988c517d85bcb3d2216027a83eb
+332b010da4d01397be1a8513d13c34c9bd56ae7d refs/tags/v0.9.0
+^69068c763351ef3da7ca5fc9b7e4a9c54fe19db2
+c7f05fae7bd17948f9f2d8b2347ca164e9b12e42 refs/tags/v0.9.1
+^df9a3fe7ab5470a37ebc56f20b11481da7196dab
+3d67cb42bc118d40c641c40285012884426ba0f4 refs/tags/v0.9.1.1
+^e716df61e46f6929e4a7402bec663f11ebe08378
+2a0f2d861ef95ac2b72de70c720c97827b25b440 refs/tags/v1.2.0
+^49a0ab2e349f248ff9066883565629cc8be7c22e
+85ea6a7c3fa351d03dd36ce80bd8c1db649e41fb refs/tags/v1.2.1
+^51163e1bd5ef13e1ef34f0fe81993715d8d83a56
+387e584b36a7341e77928d832a3f454f851fcd4b refs/tags/v1.2.11
+^feb4f7c6065235de263ce17386a74b2e43cc268e
+ec8d56337de08c47e8f13ee745854811e39f81a6 refs/tags/v1.2.12
+^46d01dc9bf22965799ab03db464858fea570fada

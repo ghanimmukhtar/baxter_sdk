@@ -1,0 +1,17 @@
+<launch>
+
+
+  <!-- Launch Gazebo  -->
+  <include file="$(find baxter_gazebo)/launch/baxter_world_grasping.launch" />   
+
+  <!-- ros_control seven baxter arm launch file -->
+  <include file="$(find baxter_gazebo)/launch/baxter_gazebo_states.launch" />   
+
+  <!-- ros_control position control baxter arm launch file -->
+  <!--<include file="$(find baxter_gazebo)/launch/crustcrawler_gazebo_position.launch" />  -->
+
+  <!-- ros_control trajectory control baxter arm launch file -->
+  <include file="$(find baxter_gazebo)/launch/baxter_trajectory_controller.launch" />    
+
+
+</launch>

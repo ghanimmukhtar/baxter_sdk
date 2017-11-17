@@ -1,0 +1,13 @@
+0da6ea300e1f8050ffe8d78421dcc6b8fec983a2		branch 'master' of https://github.com/RethinkRobotics/baxter_tools
+4c50f6bbb463adab8f56a03033577f69dba7cfa9	not-for-merge	branch 'development' of https://github.com/RethinkRobotics/baxter_tools
+3b111cbbc614e84c7d9011037e1380d6c064d029	not-for-merge	branch 'release-0.7.0' of https://github.com/RethinkRobotics/baxter_tools
+09226878c3a3a10226001fc02abc4b0beab31ad4	not-for-merge	branch 'release-1.0.0' of https://github.com/RethinkRobotics/baxter_tools
+29529341f16260c21097913bd18044917d3fda49	not-for-merge	branch 'release-1.1.0' of https://github.com/RethinkRobotics/baxter_tools
+56b80941224caeb32f368ec89f7ebd0a65e9984e	not-for-merge	branch 'release-1.1.1' of https://github.com/RethinkRobotics/baxter_tools
+68b7958f5c01627e0007cf69a4f59c625ff38207	not-for-merge	branch 'release-1.2.0' of https://github.com/RethinkRobotics/baxter_tools
+89b96c73c4fcacd2666607086f1a28738d5bc2ef	not-for-merge	tag 'catkin-reorganization-0.7' of https://github.com/RethinkRobotics/baxter_tools
+9b8c8559011bca81fb46f1f10707b870976caac4	not-for-merge	tag 'v0.7.0' of https://github.com/RethinkRobotics/baxter_tools
+6335015897036e4aff358734d26fbeb3615e2357	not-for-merge	tag 'v1.0.0' of https://github.com/RethinkRobotics/baxter_tools
+f0640059c0046dc8de37ba347006a819aabfee4c	not-for-merge	tag 'v1.1.0' of https://github.com/RethinkRobotics/baxter_tools
+29a20bf8d6583e377ac6834dfa3e39c09266af04	not-for-merge	tag 'v1.1.1' of https://github.com/RethinkRobotics/baxter_tools
+4a3e1715a537a15aa754d71b18696de8c1d5b531	not-for-merge	tag 'v1.2.0' of https://github.com/RethinkRobotics/baxter_tools

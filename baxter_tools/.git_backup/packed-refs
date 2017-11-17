@@ -1,0 +1,20 @@
+# pack-refs with: peeled fully-peeled 
+4c50f6bbb463adab8f56a03033577f69dba7cfa9 refs/remotes/origin/development
+0da6ea300e1f8050ffe8d78421dcc6b8fec983a2 refs/remotes/origin/master
+3b111cbbc614e84c7d9011037e1380d6c064d029 refs/remotes/origin/release-0.7.0
+09226878c3a3a10226001fc02abc4b0beab31ad4 refs/remotes/origin/release-1.0.0
+29529341f16260c21097913bd18044917d3fda49 refs/remotes/origin/release-1.1.0
+56b80941224caeb32f368ec89f7ebd0a65e9984e refs/remotes/origin/release-1.1.1
+68b7958f5c01627e0007cf69a4f59c625ff38207 refs/remotes/origin/release-1.2.0
+89b96c73c4fcacd2666607086f1a28738d5bc2ef refs/tags/catkin-reorganization-0.7
+^f256b24fe81eddf1613bdecdd8e8e9dd47259852
+9b8c8559011bca81fb46f1f10707b870976caac4 refs/tags/v0.7.0
+^b240a06e5b5f463acbd80f18b430876c459b949d
+6335015897036e4aff358734d26fbeb3615e2357 refs/tags/v1.0.0
+^0561030eb8cacd0e241d8f282d1f238466d44504
+f0640059c0046dc8de37ba347006a819aabfee4c refs/tags/v1.1.0
+^600dea61562a5b5db3264ed5ccabc7c0d083e44d
+29a20bf8d6583e377ac6834dfa3e39c09266af04 refs/tags/v1.1.1
+^5203953a8426be3cbded13b528573bc9328f6a53
+4a3e1715a537a15aa754d71b18696de8c1d5b531 refs/tags/v1.2.0
+^0da6ea300e1f8050ffe8d78421dcc6b8fec983a2
