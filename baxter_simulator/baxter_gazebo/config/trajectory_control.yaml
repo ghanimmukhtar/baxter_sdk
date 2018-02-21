@@ -1,5 +1,5 @@
 robot:
-  baxter_joint_controller:
+  limb/left:
     type: "position_controllers/JointTrajectoryController"
     joints:
       - left_s0
@@ -20,7 +20,7 @@ robot:
       left_w2: {p: 1000.0, i: 0.0, d: 0.1, i_clamp: 0.0}
 
 
-  gripper_controller:
+  end_effector/left_gripper:
     type: "position_controllers/JointTrajectoryController"
     joints:
       - l_gripper_r_finger_joint

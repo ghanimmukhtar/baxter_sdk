@@ -3,8 +3,8 @@
   <world name="default">
     <!--include a table-->
     <include>
-      <uri>model://table</uri>
-      <pose>0.8 0.0 0.0 0.0 0.0 1.5707</pose>
+      <uri>model://final_demo_table</uri>
+      <pose>1.2 0.0 0.0 0.0 0.0 0.0</pose>
     </include>
     <!-- include objects () -->
     <!-- object 1 -->
